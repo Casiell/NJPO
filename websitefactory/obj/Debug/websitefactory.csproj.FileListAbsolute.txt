@@ -1,0 +1,12 @@
+C:\Users\Student\Documents\Pojda\websitefactory\websitefactory\bin\Debug\websitefactory.exe.config
+C:\Users\Student\Documents\Pojda\websitefactory\websitefactory\bin\Debug\websitefactory.exe
+C:\Users\Student\Documents\Pojda\websitefactory\websitefactory\bin\Debug\websitefactory.pdb
+C:\Users\Student\Documents\Pojda\websitefactory\websitefactory\obj\Debug\websitefactory.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Pojda\websitefactory\websitefactory\obj\Debug\websitefactory.exe
+C:\Users\Student\Documents\Pojda\websitefactory\websitefactory\obj\Debug\websitefactory.pdb
+D:\Szkoła\NJPO\websitefactory\websitefactory\bin\Debug\websitefactory.exe.config
+D:\Szkoła\NJPO\websitefactory\websitefactory\obj\Debug\websitefactory.exe
+D:\Szkoła\NJPO\websitefactory\websitefactory\obj\Debug\websitefactory.pdb
+D:\Szkoła\NJPO\websitefactory\websitefactory\bin\Debug\websitefactory.exe
+D:\Szkoła\NJPO\websitefactory\websitefactory\bin\Debug\websitefactory.pdb
+D:\Szkoła\NJPO\websitefactory\websitefactory\obj\Debug\websitefactory.csprojResolveAssemblyReference.cache
