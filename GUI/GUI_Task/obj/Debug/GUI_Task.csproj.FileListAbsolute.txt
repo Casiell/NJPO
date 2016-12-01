@@ -1,0 +1,9 @@
+D:\Szkoła\NJPO\GitHub\NJPO\GUI\GUI_Task\bin\Debug\GUI_Task.exe.config
+D:\Szkoła\NJPO\GitHub\NJPO\GUI\GUI_Task\bin\Debug\GUI_Task.exe
+D:\Szkoła\NJPO\GitHub\NJPO\GUI\GUI_Task\bin\Debug\GUI_Task.pdb
+D:\Szkoła\NJPO\GitHub\NJPO\GUI\GUI_Task\obj\Debug\GUI_Task.csprojResolveAssemblyReference.cache
+D:\Szkoła\NJPO\GitHub\NJPO\GUI\GUI_Task\obj\Debug\GUI_Task.Form1.resources
+D:\Szkoła\NJPO\GitHub\NJPO\GUI\GUI_Task\obj\Debug\GUI_Task.Properties.Resources.resources
+D:\Szkoła\NJPO\GitHub\NJPO\GUI\GUI_Task\obj\Debug\GUI_Task.csproj.GenerateResource.Cache
+D:\Szkoła\NJPO\GitHub\NJPO\GUI\GUI_Task\obj\Debug\GUI_Task.exe
+D:\Szkoła\NJPO\GitHub\NJPO\GUI\GUI_Task\obj\Debug\GUI_Task.pdb
