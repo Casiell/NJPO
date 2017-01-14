@@ -1,0 +1,6 @@
+D:\Szkoła\NJPO\GitHub\NJPO\Testy2\Testy2\bin\Debug\Testy2.dll
+D:\Szkoła\NJPO\GitHub\NJPO\Testy2\Testy2\bin\Debug\Testy2.pdb
+D:\Szkoła\NJPO\GitHub\NJPO\Testy2\Testy2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Szkoła\NJPO\GitHub\NJPO\Testy2\Testy2\obj\Debug\Testy2.csprojResolveAssemblyReference.cache
+D:\Szkoła\NJPO\GitHub\NJPO\Testy2\Testy2\obj\Debug\Testy2.dll
+D:\Szkoła\NJPO\GitHub\NJPO\Testy2\Testy2\obj\Debug\Testy2.pdb

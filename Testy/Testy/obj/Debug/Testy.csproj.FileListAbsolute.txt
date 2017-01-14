@@ -1,0 +1,6 @@
+D:\Szkoła\NJPO\GitHub\NJPO\Testy\Testy\bin\Debug\Testy.exe.config
+D:\Szkoła\NJPO\GitHub\NJPO\Testy\Testy\bin\Debug\Testy.exe
+D:\Szkoła\NJPO\GitHub\NJPO\Testy\Testy\bin\Debug\Testy.pdb
+D:\Szkoła\NJPO\GitHub\NJPO\Testy\Testy\obj\Debug\Testy.csprojResolveAssemblyReference.cache
+D:\Szkoła\NJPO\GitHub\NJPO\Testy\Testy\obj\Debug\Testy.exe
+D:\Szkoła\NJPO\GitHub\NJPO\Testy\Testy\obj\Debug\Testy.pdb
